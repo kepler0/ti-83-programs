@@ -1,0 +1,9 @@
+Prompt X
+Prompt Y
+Prompt A
+Prompt B
+Disp √(((A)-(X))²+((B)-(Y))²)
+DelVar A
+DelVar B
+DelVar X
+DelVar Y
